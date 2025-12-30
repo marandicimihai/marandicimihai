@@ -1,3 +1,6 @@
+<div align="center">
+<div style="border: 3px solid #ff0000; border-radius: 15px; padding: 25px; box-shadow: 0 0 10px #ff0000, 0 0 20px #ff0000, 0 0 30px #ff0000, 0 0 40px #ff0000, 0 0 50px #ff0000, inset 0 0 10px #ff0000;">
+
 ![Banner](majed-swan--sMoH3gyvO4-unsplash.jpg)
 
 ## About Me
@@ -15,3 +18,6 @@ I'm a software developer with experience in game development (Unity, C#) and web
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+
+</div>
+</div>

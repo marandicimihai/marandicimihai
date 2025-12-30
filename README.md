@@ -1,16 +1,5 @@
 <div align="center">
-<div style="border: 3px solid #ff0000; border-radius: 15px; padding: 25px; box-shadow: 0 0 10px #ff0000, 0 0 20px #ff0000, 0 0 30px #ff0000, 0 0 40px #ff0000, inset 0 0 10px #ff0000; animation: neon-glow 1.5s ease-in-out infinite alternate;">
-
-<style>
-@keyframes neon-glow {
-  from {
-    box-shadow: 0 0 5px #ff0000, 0 0 10px #ff0000, 0 0 15px #ff0000, 0 0 20px #ff0000, inset 0 0 5px #ff0000;
-  }
-  to {
-    box-shadow: 0 0 10px #ff0000, 0 0 20px #ff0000, 0 0 30px #ff0000, 0 0 40px #ff0000, 0 0 50px #ff0000, inset 0 0 10px #ff0000;
-  }
-}
-</style>
+<div style="border: 3px solid #ff0000; border-radius: 15px; padding: 25px; box-shadow: 0 0 10px #ff0000, 0 0 20px #ff0000, 0 0 30px #ff0000, 0 0 40px #ff0000, 0 0 50px #ff0000, inset 0 0 10px #ff0000;">
 
 ![Banner](majed-swan--sMoH3gyvO4-unsplash.jpg)
 
